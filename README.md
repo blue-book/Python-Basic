@@ -1,4 +1,4 @@
-# Python-Basics
+# Python入門　シラバス
 
 
 | Component | Description |
